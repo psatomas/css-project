@@ -1,1 +1,1 @@
-## css project [https://psatomas.github.io/css-project/]
+## [css project](https://psatomas.github.io/css-project/)
